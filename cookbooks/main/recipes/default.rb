@@ -4,7 +4,9 @@
 #  }
 #end
 
-require_recipe 'daemonize'
+require_recipe 'custom_prompt'
+
+#require_recipe 'daemonize'
 
 # uncomment if you want to run postgres recipe
 #require_recipe 'postgres'
