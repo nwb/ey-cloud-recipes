@@ -5,6 +5,7 @@
 #end
 
 require_recipe 'custom_prompt'
+require_recipe 'cron_pr'
 
 #require_recipe 'daemonize'
 
